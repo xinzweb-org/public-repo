@@ -1,2 +1,2 @@
 # public_repo
-some public repo
+This is a public repo to test out machine account.
