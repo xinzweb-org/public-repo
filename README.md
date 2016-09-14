@@ -1,2 +1,2 @@
 # public_repo
-some public repo
+some public repo.
