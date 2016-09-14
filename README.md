@@ -1,2 +1,2 @@
 # public_repo
-some public repo
+Have a nice day!
